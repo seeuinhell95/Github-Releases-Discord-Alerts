@@ -27,7 +27,6 @@ npm install node-fetch@2
 # ⚙️ Create and edit the script
 
 ```bash
-mkdir -p /home/discord-bots
 cd /home/discord-bots
 
 nano github.js
